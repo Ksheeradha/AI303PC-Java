@@ -1,4 +1,3 @@
-import java.lang.*;
 class FirstJava{
 	public static void hello(){
 		System.out.println("Hello");
